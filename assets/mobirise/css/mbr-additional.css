@@ -1,50 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-
-#dropdown-menu-1 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-1 .nav .link,
-#dropdown-menu-1 .dropdown-item {
-  font-size: 1.2em;
-  color: #f7da64;
-}
-#dropdown-menu-1 .navbar,
-#dropdown-menu-1 .dropdown-menu {
-  background: #2969b0;
-}
-#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-1 .dropdown-menu a:hover,
-#dropdown-menu-1 .dropdown-menu a:focus {
-  background: #255f9f;
-}
-#dropdown-menu-1 .navbar-toggler {
-  color: #f7da64;
-}
-#header4-2 I {
-  font-family: 'Slabo 27px', serif;
-}
-#features1-3 .mbr-section-title .mbr-header__text {
-  font-size: 36px;
-}
-#features1-3 .mbr-section__col .mbr-header__text {
-  font-size: 20px;
-}
-#buttons1-46 .btn {
-  font-size: 17px;
-}
-#msg-box4-1d .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box4-1d .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-1d .mbr-article {
-  color: #ffffff;
-}
-#footer1-1b P {
-  text-align: center;
-}
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 #dropdown-menu-4 .hide-buttons [data-button] {
@@ -87,24 +42,24 @@
   font-family: 'Slabo 27px', serif;
 }
 
-#dropdown-menu-8 .hide-buttons [data-button] {
+#dropdown-menu-1 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-8 .nav .link,
-#dropdown-menu-8 .dropdown-item {
+#dropdown-menu-1 .nav .link,
+#dropdown-menu-1 .dropdown-item {
   font-size: 1.2em;
   color: #f7da64;
 }
-#dropdown-menu-8 .navbar,
-#dropdown-menu-8 .dropdown-menu {
+#dropdown-menu-1 .navbar,
+#dropdown-menu-1 .dropdown-menu {
   background: #2969b0;
 }
-#dropdown-menu-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-8 .dropdown-menu a:hover,
-#dropdown-menu-8 .dropdown-menu a:focus {
+#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1 .dropdown-menu a:hover,
+#dropdown-menu-1 .dropdown-menu a:focus {
   background: #255f9f;
 }
-#dropdown-menu-8 .navbar-toggler {
+#dropdown-menu-1 .navbar-toggler {
   color: #f7da64;
 }
 #header2-c P {
@@ -580,24 +535,24 @@
 #content5-2n .mbr-article {
   color: #fff;
 }
-#dropdown-menu-2p .hide-buttons [data-button] {
+#dropdown-menu-1 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-2p .nav .link,
-#dropdown-menu-2p .dropdown-item {
+#dropdown-menu-1 .nav .link,
+#dropdown-menu-1 .dropdown-item {
   font-size: 1.2em;
   color: #f7da64;
 }
-#dropdown-menu-2p .navbar,
-#dropdown-menu-2p .dropdown-menu {
+#dropdown-menu-1 .navbar,
+#dropdown-menu-1 .dropdown-menu {
   background: #2969b0;
 }
-#dropdown-menu-2p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2p .dropdown-menu a:hover,
-#dropdown-menu-2p .dropdown-menu a:focus {
+#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1 .dropdown-menu a:hover,
+#dropdown-menu-1 .dropdown-menu a:focus {
   background: #255f9f;
 }
-#dropdown-menu-2p .navbar-toggler {
+#dropdown-menu-1 .navbar-toggler {
   color: #f7da64;
 }
 #msg-box4-34 .mbr-header__text {
@@ -998,5 +953,60 @@
   color: #ffffff;
 }
 #msg-box4-5a .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-5k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-5k .nav .link,
+#dropdown-menu-5k .dropdown-item {
+  font-size: 1.2em;
+  color: #f7da64;
+}
+#dropdown-menu-5k .navbar,
+#dropdown-menu-5k .dropdown-menu {
+  background: #2969b0;
+}
+#dropdown-menu-5k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-5k .dropdown-menu a:hover,
+#dropdown-menu-5k .dropdown-menu a:focus {
+  background: #255f9f;
+}
+#dropdown-menu-5k .navbar-toggler {
+  color: #f7da64;
+}
+#dropdown-menu-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1 .nav .link,
+#dropdown-menu-1 .dropdown-item {
+  font-size: 1.2em;
+  color: #f7da64;
+}
+#dropdown-menu-1 .navbar,
+#dropdown-menu-1 .dropdown-menu {
+  background: #2969b0;
+}
+#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1 .dropdown-menu a:hover,
+#dropdown-menu-1 .dropdown-menu a:focus {
+  background: #255f9f;
+}
+#dropdown-menu-1 .navbar-toggler {
+  color: #f7da64;
+}
+#header3-5q P {
+  text-align: center;
+}
+#header3-5q H3 {
+  font-size: 20px;
+}
+#msg-box4-1d .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1d .mbr-article {
   color: #ffffff;
 }
